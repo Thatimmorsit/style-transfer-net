@@ -11,3 +11,4 @@
 [2023-05-19T14:27:50] Update README with VGG encoder docs
 [2023-05-19T14:12:16] Reorganize checkpoint saver structure
 [2023-05-22T17:53:34] Add docstrings to total variation loss
+[2023-05-23T08:41:27] Implement VGG encoder functionality
