@@ -12,3 +12,4 @@
 [2023-05-19T14:12:16] Reorganize checkpoint saver structure
 [2023-05-22T17:53:34] Add docstrings to total variation loss
 [2023-05-23T08:41:27] Implement VGG encoder functionality
+[2023-05-29T18:57:33] Add config loader module
