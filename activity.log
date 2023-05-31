@@ -14,3 +14,4 @@
 [2023-05-23T08:41:27] Implement VGG encoder functionality
 [2023-05-29T18:57:33] Add config loader module
 [2023-05-30T18:42:06] Increase test coverage for total variation loss
+[2023-05-31T15:04:12] Update README with config loader docs
