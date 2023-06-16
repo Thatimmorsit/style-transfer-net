@@ -16,3 +16,4 @@
 [2023-05-30T18:42:06] Increase test coverage for total variation loss
 [2023-05-31T15:04:12] Update README with config loader docs
 [2023-06-14T13:04:41] Add support for config loader
+[2023-06-16T13:53:52] Fix edge case in content loss
