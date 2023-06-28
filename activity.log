@@ -17,3 +17,4 @@
 [2023-05-31T15:04:12] Update README with config loader docs
 [2023-06-14T13:04:41] Add support for config loader
 [2023-06-16T13:53:52] Fix edge case in content loss
+[2023-06-28T10:28:42] Introduce gram matrix component
