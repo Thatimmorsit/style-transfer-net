@@ -24,3 +24,4 @@
 [2023-07-27T15:48:49] Update README with checkpoint saver docs
 [2023-07-28T19:24:59] Add inline comments to output renderer
 [2023-08-02T12:04:47] Improve style loss performance
+[2023-08-02T16:45:29] Reorganize style loss structure
