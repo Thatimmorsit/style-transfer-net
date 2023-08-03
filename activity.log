@@ -27,3 +27,4 @@
 [2023-08-02T16:45:29] Reorganize style loss structure
 [2023-08-03T17:37:06] Introduce output renderer component
 [2023-08-03T11:16:11] Increase test coverage for total variation loss
+[2023-08-03T19:41:04] Introduce total variation loss component
