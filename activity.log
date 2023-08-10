@@ -33,3 +33,4 @@
 [2023-08-04T11:31:52] Increase test coverage for image normalizer
 [2023-08-08T15:08:19] Add support for image normalizer
 [2023-08-09T18:37:48] Add unit tests for style loss
+[2023-08-10T17:32:29] Resolve issue with total variation loss
