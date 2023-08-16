@@ -36,3 +36,4 @@
 [2023-08-10T17:32:29] Resolve issue with total variation loss
 [2023-08-10T13:20:17] Patch optimizer loop validation bug
 [2023-08-16T10:17:19] Fix image normalizer memory leak
+[2023-08-16T18:43:59] Document style loss parameters
