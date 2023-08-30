@@ -41,3 +41,4 @@
 [2023-08-22T17:21:48] Fix output renderer memory leak
 [2023-08-25T09:18:56] Remove deprecated config loader method
 [2023-08-28T19:23:17] Refactor VGG encoder for clarity
+[2023-08-30T14:34:48] Reorganize total variation loss structure
