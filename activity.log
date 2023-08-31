@@ -42,3 +42,4 @@
 [2023-08-25T09:18:56] Remove deprecated config loader method
 [2023-08-28T19:23:17] Refactor VGG encoder for clarity
 [2023-08-30T14:34:48] Reorganize total variation loss structure
+[2023-08-31T11:01:52] Resolve issue with checkpoint saver
