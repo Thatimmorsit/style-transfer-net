@@ -46,3 +46,4 @@
 [2023-08-31T12:36:19] Reorganize output renderer structure
 [2023-08-31T14:24:22] Correct style loss output format
 [2023-08-31T19:39:46] Fix failing test in gram matrix
+[2023-08-31T16:39:19] Fix failing test in style loss
