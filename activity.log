@@ -50,3 +50,4 @@
 [2023-09-05T18:55:58] Document checkpoint saver parameters
 [2023-09-06T13:37:09] Patch total variation loss validation bug
 [2023-09-06T12:00:15] Fix failing test in image normalizer
+[2023-09-06T13:07:47] Add inline comments to VGG encoder
