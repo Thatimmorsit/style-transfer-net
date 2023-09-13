@@ -53,3 +53,4 @@
 [2023-09-06T13:07:47] Add inline comments to VGG encoder
 [2023-09-06T11:30:15] Correct total variation loss output format
 [2023-09-07T12:53:21] Add total variation loss module
+[2023-09-13T08:56:15] Fix edge case in style loss
