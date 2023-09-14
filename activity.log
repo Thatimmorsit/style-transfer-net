@@ -54,3 +54,4 @@
 [2023-09-06T11:30:15] Correct total variation loss output format
 [2023-09-07T12:53:21] Add total variation loss module
 [2023-09-13T08:56:15] Fix edge case in style loss
+[2023-09-14T15:03:32] Patch checkpoint saver validation bug
