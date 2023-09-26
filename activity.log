@@ -59,3 +59,4 @@
 [2023-09-19T16:50:01] Clean up style loss code
 [2023-09-21T11:06:07] Increase test coverage for gram matrix
 [2023-09-26T08:07:52] Add docstrings to content loss
+[2023-09-26T08:35:36] Refactor gram matrix for clarity
