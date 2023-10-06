@@ -65,3 +65,4 @@
 [2023-10-04T18:20:35] Create style loss handler
 [2023-10-05T10:33:51] Fix optimizer loop memory leak
 [2023-10-05T10:49:37] Introduce content loss component
+[2023-10-06T14:24:09] Add optimizer loop module
