@@ -72,3 +72,4 @@
 [2023-10-23T08:23:52] Document VGG encoder parameters
 [2023-10-23T09:48:48] Add support for gram matrix
 [2023-10-25T13:42:22] Increase test coverage for image normalizer
+[2023-10-25T11:34:48] Add support for optimizer loop
