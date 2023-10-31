@@ -74,3 +74,4 @@
 [2023-10-25T13:42:22] Increase test coverage for image normalizer
 [2023-10-25T11:34:48] Add support for optimizer loop
 [2023-10-27T08:08:01] Refactor VGG encoder for clarity
+[2023-10-31T12:11:27] Add support for gram matrix
