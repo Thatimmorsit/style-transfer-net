@@ -76,3 +76,4 @@
 [2023-10-27T08:08:01] Refactor VGG encoder for clarity
 [2023-10-31T12:11:27] Add support for gram matrix
 [2023-10-31T13:46:24] Patch checkpoint saver validation bug
+[2023-11-01T17:29:58] Add docstrings to total variation loss
