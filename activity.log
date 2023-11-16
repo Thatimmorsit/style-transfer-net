@@ -82,3 +82,4 @@
 [2023-11-10T12:30:11] Resolve issue with output renderer
 [2023-11-15T13:39:36] Clean up optimizer loop code
 [2023-11-15T11:39:29] Clean up gram matrix code
+[2023-11-16T14:18:25] Add image normalizer module
