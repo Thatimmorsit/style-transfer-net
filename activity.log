@@ -88,3 +88,4 @@
 [2023-11-23T19:39:52] Bump image normalizer dependencies
 [2023-11-29T17:13:44] Fix total variation loss memory leak
 [2023-11-29T17:42:50] Update README with content loss docs
+[2023-11-29T14:27:42] Reorganize config loader structure
