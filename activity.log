@@ -87,3 +87,4 @@
 [2023-11-22T11:22:23] Add support for style loss
 [2023-11-23T19:39:52] Bump image normalizer dependencies
 [2023-11-29T17:13:44] Fix total variation loss memory leak
+[2023-11-29T17:42:50] Update README with content loss docs
