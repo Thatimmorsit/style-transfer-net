@@ -91,3 +91,4 @@
 [2023-11-29T14:27:42] Reorganize config loader structure
 [2023-12-05T14:30:49] Remove deprecated total variation loss method
 [2023-12-05T19:16:46] Fix edge case in output renderer
+[2023-12-05T17:06:34] Introduce output renderer component
