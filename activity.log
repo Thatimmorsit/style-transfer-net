@@ -90,3 +90,4 @@
 [2023-11-29T17:42:50] Update README with content loss docs
 [2023-11-29T14:27:42] Reorganize config loader structure
 [2023-12-05T14:30:49] Remove deprecated total variation loss method
+[2023-12-05T19:16:46] Fix edge case in output renderer
