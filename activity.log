@@ -96,3 +96,4 @@
 [2023-12-06T17:25:06] Introduce gram matrix component
 [2023-12-12T15:25:06] Introduce total variation loss component
 [2023-12-12T09:51:45] Resolve issue with config loader
+[2023-12-12T16:42:07] Add inline comments to output renderer
