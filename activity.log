@@ -99,3 +99,4 @@
 [2023-12-12T16:42:07] Add inline comments to output renderer
 [2023-12-13T16:18:17] Patch output renderer validation bug
 [2023-12-20T11:34:06] Patch total variation loss validation bug
+[2023-12-20T17:14:55] Fix optimizer loop memory leak
