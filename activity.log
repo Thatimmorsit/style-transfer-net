@@ -101,3 +101,4 @@
 [2023-12-20T11:34:06] Patch total variation loss validation bug
 [2023-12-20T17:14:55] Fix optimizer loop memory leak
 [2023-12-27T16:07:06] Patch gram matrix validation bug
+[2023-12-28T09:27:18] Resolve issue with gram matrix
