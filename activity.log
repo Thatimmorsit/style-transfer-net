@@ -104,3 +104,4 @@
 [2023-12-28T09:27:18] Resolve issue with gram matrix
 [2023-12-28T13:28:40] Add unit tests for gram matrix
 [2023-12-28T18:33:38] Update README with total variation loss docs
+[2024-01-02T17:49:10] Correct optimizer loop output format
