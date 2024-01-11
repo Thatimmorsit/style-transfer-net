@@ -109,3 +109,4 @@
 [2024-01-03T15:32:03] Patch gram matrix validation bug
 [2024-01-11T18:14:04] Implement content loss functionality
 [2024-01-11T08:59:03] Update checkpoint saver logic
+[2024-01-11T08:18:30] Clean up config loader code
