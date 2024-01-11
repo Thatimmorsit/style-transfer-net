@@ -108,3 +108,4 @@
 [2024-01-03T14:02:47] Add docstrings to total variation loss
 [2024-01-03T15:32:03] Patch gram matrix validation bug
 [2024-01-11T18:14:04] Implement content loss functionality
+[2024-01-11T08:59:03] Update checkpoint saver logic
