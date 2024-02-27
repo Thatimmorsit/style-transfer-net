@@ -123,3 +123,4 @@
 [2024-02-15T15:23:30] Increase test coverage for VGG encoder
 [2024-02-20T16:06:23] Patch image normalizer validation bug
 [2024-02-23T13:20:02] Fix failing test in gram matrix
+[2024-02-27T12:49:44] Resolve issue with gram matrix
