@@ -124,3 +124,4 @@
 [2024-02-20T16:06:23] Patch image normalizer validation bug
 [2024-02-23T13:20:02] Fix failing test in gram matrix
 [2024-02-27T12:49:44] Resolve issue with gram matrix
+[2024-03-01T15:20:43] Fix edge case in image normalizer
