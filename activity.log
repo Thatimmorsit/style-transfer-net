@@ -130,3 +130,4 @@
 [2024-03-13T16:39:46] Add unit tests for optimizer loop
 [2024-03-13T09:38:50] Add content loss module
 [2024-03-20T18:53:35] Bump style loss dependencies
+[2024-04-05T11:25:09] Resolve issue with checkpoint saver
