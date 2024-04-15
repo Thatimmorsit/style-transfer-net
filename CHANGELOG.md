@@ -4,3 +4,6 @@
 
 ## 2024-01-08
 - Implement Gram matrix for style representation
+
+## 2024-04-15
+- Use LBFGS optimizer for faster convergence
