@@ -138,3 +138,4 @@
 [2024-04-17T18:28:08] Introduce optimizer loop component
 [2024-04-17T09:55:02] Optimize image normalizer pipeline
 [2024-04-19T12:27:00] Optimize total variation loss pipeline
+[2024-04-19T09:37:00] Add docstrings to total variation loss
