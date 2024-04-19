@@ -140,3 +140,4 @@
 [2024-04-19T12:27:00] Optimize total variation loss pipeline
 [2024-04-19T09:37:00] Add docstrings to total variation loss
 [2024-04-19T15:23:03] Implement output renderer functionality
+[2024-04-19T09:13:27] Add docstrings to VGG encoder
