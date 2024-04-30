@@ -144,3 +144,4 @@
 [2024-04-22T15:52:02] Bump checkpoint saver dependencies
 [2024-04-25T11:28:16] Reorganize style loss structure
 [2024-04-25T17:02:00] Clean up total variation loss code
+[2024-04-30T19:29:16] Add gram matrix module
