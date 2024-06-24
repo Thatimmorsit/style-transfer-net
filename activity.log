@@ -155,3 +155,4 @@
 [2024-05-31T14:17:14] Update content loss logic
 [2024-06-06T08:21:11] Add support for total variation loss
 [2024-06-12T18:28:43] Document style loss parameters
+[2024-06-24T18:05:37] Create image normalizer handler
