@@ -157,3 +157,4 @@
 [2024-06-12T18:28:43] Document style loss parameters
 [2024-06-24T18:05:37] Create image normalizer handler
 [2024-06-26T16:21:26] Bump style loss dependencies
+[2024-06-27T08:55:25] Add optimizer loop module
