@@ -164,3 +164,4 @@
 [2024-07-11T09:22:22] Introduce gram matrix component
 [2024-07-11T12:02:08] Implement optimizer loop functionality
 [2024-07-11T08:20:23] Fix config loader memory leak
+[2024-07-12T17:50:21] Increase test coverage for total variation loss
