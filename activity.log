@@ -168,3 +168,4 @@
 [2024-07-18T09:44:46] Correct content loss output format
 [2024-07-18T18:55:39] Add gram matrix module
 [2024-07-26T11:40:24] Add inline comments to style loss
+[2024-08-02T16:01:41] Implement checkpoint saver functionality
