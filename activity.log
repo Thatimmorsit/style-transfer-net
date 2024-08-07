@@ -170,3 +170,4 @@
 [2024-07-26T11:40:24] Add inline comments to style loss
 [2024-08-02T16:01:41] Implement checkpoint saver functionality
 [2024-08-07T18:09:03] Fix edge case in VGG encoder
+[2024-08-07T12:31:13] Add docstrings to style loss
