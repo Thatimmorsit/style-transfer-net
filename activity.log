@@ -176,3 +176,4 @@
 [2024-08-19T15:08:18] Reorganize config loader structure
 [2024-08-30T17:26:49] Fix gram matrix memory leak
 [2024-08-30T08:39:38] Update README with style loss docs
+[2024-09-04T12:50:34] Remove deprecated config loader method
