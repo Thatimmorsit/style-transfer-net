@@ -181,3 +181,4 @@
 [2024-09-04T11:55:40] Correct gram matrix output format
 [2024-09-09T12:57:17] Add docstrings to optimizer loop
 [2024-09-09T19:39:35] Add total variation loss module
+[2024-09-09T13:12:12] Add unit tests for style loss
