@@ -186,3 +186,4 @@
 [2024-09-10T10:32:49] Patch output renderer validation bug
 [2024-09-18T12:47:23] Patch optimizer loop validation bug
 [2024-09-24T08:26:59] Implement gram matrix functionality
+[2024-09-24T19:29:03] Add VGG encoder module
