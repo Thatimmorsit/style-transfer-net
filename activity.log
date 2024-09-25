@@ -188,3 +188,4 @@
 [2024-09-24T08:26:59] Implement gram matrix functionality
 [2024-09-24T19:29:03] Add VGG encoder module
 [2024-09-24T19:37:06] Add total variation loss module
+[2024-09-25T16:14:09] Document gram matrix parameters
