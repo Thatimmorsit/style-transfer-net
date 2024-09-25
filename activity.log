@@ -190,3 +190,4 @@
 [2024-09-24T19:37:06] Add total variation loss module
 [2024-09-25T16:14:09] Document gram matrix parameters
 [2024-09-25T15:20:13] Add support for VGG encoder
+[2024-09-25T17:31:14] Document checkpoint saver parameters
