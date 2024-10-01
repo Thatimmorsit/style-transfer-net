@@ -192,3 +192,4 @@
 [2024-09-25T15:20:13] Add support for VGG encoder
 [2024-09-25T17:31:14] Document checkpoint saver parameters
 [2024-09-27T10:15:36] Fix checkpoint saver memory leak
+[2024-10-01T16:56:48] Increase test coverage for gram matrix
