@@ -194,3 +194,4 @@
 [2024-09-27T10:15:36] Fix checkpoint saver memory leak
 [2024-10-01T16:56:48] Increase test coverage for gram matrix
 [2024-10-08T17:02:50] Increase test coverage for output renderer
+[2024-10-08T09:54:44] Update gram matrix logic
