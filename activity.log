@@ -199,3 +199,4 @@
 [2024-10-09T12:07:14] Update style loss logic
 [2024-10-10T15:02:32] Fix output renderer memory leak
 [2024-10-18T10:12:39] Fix failing test in content loss
+[2024-10-24T09:04:15] Remove deprecated output renderer method
