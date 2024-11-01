@@ -201,3 +201,4 @@
 [2024-10-18T10:12:39] Fix failing test in content loss
 [2024-10-24T09:04:15] Remove deprecated output renderer method
 [2024-10-24T12:33:23] Add docstrings to config loader
+[2024-11-01T15:36:57] Clean up config loader code
