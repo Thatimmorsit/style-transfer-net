@@ -203,3 +203,4 @@
 [2024-10-24T12:33:23] Add docstrings to config loader
 [2024-11-01T15:36:57] Clean up config loader code
 [2024-11-01T11:38:51] Create VGG encoder handler
+[2024-11-04T14:51:50] Fix edge case in checkpoint saver
