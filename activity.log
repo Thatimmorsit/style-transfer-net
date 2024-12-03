@@ -210,3 +210,4 @@
 [2024-11-15T16:27:40] Patch optimizer loop validation bug
 [2024-11-21T10:13:42] Resolve issue with VGG encoder
 [2024-11-21T13:36:32] Update VGG encoder logic
+[2024-12-03T10:40:37] Update gram matrix logic
