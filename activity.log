@@ -213,3 +213,4 @@
 [2024-12-03T10:40:37] Update gram matrix logic
 [2024-12-03T11:35:51] Add inline comments to checkpoint saver
 [2024-12-05T16:30:45] Resolve issue with style loss
+[2024-12-10T17:20:29] Clean up image normalizer code
