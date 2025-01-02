@@ -220,3 +220,4 @@
 [2024-12-12T13:21:48] Add inline comments to image normalizer
 [2024-12-19T14:34:14] Correct total variation loss output format
 [2024-12-23T10:58:10] Improve image normalizer performance
+[2025-01-02T17:44:10] Add inline comments to optimizer loop
