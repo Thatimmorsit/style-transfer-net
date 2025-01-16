@@ -225,3 +225,4 @@
 [2025-01-06T19:12:39] Resolve issue with image normalizer
 [2025-01-08T12:54:37] Enhance checkpoint saver accuracy
 [2025-01-08T10:25:54] Remove deprecated total variation loss method
+[2025-01-16T17:43:26] Correct optimizer loop output format
