@@ -227,3 +227,4 @@
 [2025-01-08T10:25:54] Remove deprecated total variation loss method
 [2025-01-16T17:43:26] Correct optimizer loop output format
 [2025-01-20T17:10:03] Increase test coverage for VGG encoder
+[2025-01-20T11:51:59] Increase test coverage for gram matrix
