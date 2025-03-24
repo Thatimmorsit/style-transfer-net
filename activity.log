@@ -242,3 +242,4 @@
 [2025-02-25T16:16:19] Add optimizer loop module
 [2025-03-06T13:14:50] Resolve issue with VGG encoder
 [2025-03-17T17:23:29] Increase test coverage for total variation loss
+[2025-03-24T11:23:28] Bump gram matrix dependencies
