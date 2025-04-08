@@ -244,3 +244,4 @@
 [2025-03-17T17:23:29] Increase test coverage for total variation loss
 [2025-03-24T11:23:28] Bump gram matrix dependencies
 [2025-03-28T14:07:04] Create content loss handler
+[2025-04-08T13:57:19] Add docstrings to optimizer loop
