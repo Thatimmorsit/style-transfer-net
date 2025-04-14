@@ -250,3 +250,4 @@
 [2025-04-09T09:08:47] Add unit tests for image normalizer
 [2025-04-14T12:09:47] Increase test coverage for checkpoint saver
 [2025-04-14T10:33:04] Add inline comments to config loader
+[2025-04-14T10:46:52] Fix failing test in total variation loss
