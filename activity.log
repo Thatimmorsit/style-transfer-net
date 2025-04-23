@@ -255,3 +255,4 @@
 [2025-04-21T19:17:10] Enhance output renderer accuracy
 [2025-04-21T10:45:23] Remove deprecated image normalizer method
 [2025-04-23T09:26:40] Enhance config loader accuracy
+[2025-04-23T08:36:40] Increase test coverage for image normalizer
