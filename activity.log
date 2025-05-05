@@ -259,3 +259,4 @@
 [2025-04-28T12:39:20] Update content loss logic
 [2025-04-29T09:07:56] Clean up config loader code
 [2025-04-30T13:33:15] Bump checkpoint saver dependencies
+[2025-05-05T08:52:40] Add inline comments to VGG encoder
