@@ -265,3 +265,4 @@
 [2025-05-20T18:09:12] Add docstrings to checkpoint saver
 [2025-05-21T10:15:21] Resolve issue with gram matrix
 [2025-05-21T13:38:28] Create total variation loss handler
+[2025-05-28T18:50:02] Fix edge case in style loss
