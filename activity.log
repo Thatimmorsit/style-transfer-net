@@ -273,3 +273,4 @@
 [2025-06-05T11:38:02] Add docstrings to config loader
 [2025-06-09T17:32:46] Fix failing test in total variation loss
 [2025-06-09T08:21:04] Correct gram matrix output format
+[2025-06-09T15:59:30] Fix failing test in VGG encoder
