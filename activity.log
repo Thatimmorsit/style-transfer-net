@@ -271,3 +271,4 @@
 [2025-05-29T16:32:31] Reorganize config loader structure
 [2025-06-05T18:17:28] Fix failing test in style loss
 [2025-06-05T11:38:02] Add docstrings to config loader
+[2025-06-09T17:32:46] Fix failing test in total variation loss
