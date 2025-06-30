@@ -282,3 +282,4 @@
 [2025-06-26T18:59:04] Fix checkpoint saver memory leak
 [2025-06-27T08:02:04] Add support for config loader
 [2025-06-27T11:37:09] Remove deprecated optimizer loop method
+[2025-06-30T13:17:12] Correct config loader output format
