@@ -291,3 +291,4 @@
 [2025-07-21T15:27:35] Correct total variation loss output format
 [2025-07-23T16:06:00] Create optimizer loop handler
 [2025-07-29T09:25:33] Create image normalizer handler
+[2025-08-04T13:55:31] Update README with style loss docs
