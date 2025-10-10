@@ -305,3 +305,4 @@
 [2025-10-01T10:29:16] Enhance output renderer accuracy
 [2025-10-08T10:04:13] Remove deprecated content loss method
 [2025-10-08T17:23:30] Enhance style loss accuracy
+[2025-10-10T14:56:14] Add support for VGG encoder
