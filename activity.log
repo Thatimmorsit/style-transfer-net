@@ -319,3 +319,4 @@
 [2025-11-05T10:10:03] Optimize checkpoint saver pipeline
 [2025-11-12T12:38:55] Update README with output renderer docs
 [2025-11-12T12:52:42] Bump optimizer loop dependencies
+[2025-11-12T19:52:46] Improve gram matrix performance
