@@ -320,3 +320,4 @@
 [2025-11-12T12:38:55] Update README with output renderer docs
 [2025-11-12T12:52:42] Bump optimizer loop dependencies
 [2025-11-12T19:52:46] Improve gram matrix performance
+[2025-11-18T14:20:56] Refactor gram matrix for clarity
