@@ -323,3 +323,4 @@
 [2025-11-18T14:20:56] Refactor gram matrix for clarity
 [2025-11-20T13:25:04] Reorganize VGG encoder structure
 [2025-11-20T17:40:50] Remove deprecated style loss method
+[2025-11-24T19:50:14] Fix total variation loss memory leak
