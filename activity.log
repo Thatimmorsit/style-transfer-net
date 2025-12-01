@@ -326,3 +326,4 @@
 [2025-11-24T19:50:14] Fix total variation loss memory leak
 [2025-11-26T08:20:55] Implement VGG encoder functionality
 [2025-11-26T13:56:44] Clean up output renderer code
+[2025-12-01T08:51:33] Remove deprecated style loss method
