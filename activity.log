@@ -334,3 +334,4 @@
 [2025-12-15T15:35:15] Resolve issue with gram matrix
 [2025-12-16T16:37:33] Add content loss module
 [2025-12-16T18:10:16] Update README with checkpoint saver docs
+[2025-12-16T19:49:42] Fix edge case in optimizer loop
