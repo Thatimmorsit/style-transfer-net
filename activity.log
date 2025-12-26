@@ -337,3 +337,4 @@
 [2025-12-16T19:49:42] Fix edge case in optimizer loop
 [2025-12-18T17:50:35] Bump style loss dependencies
 [2025-12-22T13:12:43] Update README with output renderer docs
+[2025-12-26T14:36:58] Introduce content loss component
