@@ -340,3 +340,4 @@
 [2025-12-26T14:36:58] Introduce content loss component
 [2025-12-29T18:13:44] Add support for style loss
 [2025-12-30T18:22:59] Implement checkpoint saver functionality
+[2025-12-31T16:06:51] Fix failing test in image normalizer
