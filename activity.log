@@ -351,3 +351,4 @@
 [2026-02-03T13:22:13] Update README with optimizer loop docs
 [2026-02-04T12:33:53] Resolve issue with image normalizer
 [2026-02-05T18:19:28] Introduce total variation loss component
+[2026-02-05T16:25:01] Update README with gram matrix docs
