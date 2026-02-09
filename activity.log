@@ -353,3 +353,4 @@
 [2026-02-05T18:19:28] Introduce total variation loss component
 [2026-02-05T16:25:01] Update README with gram matrix docs
 [2026-02-05T12:11:21] Add docstrings to config loader
+[2026-02-09T14:18:48] Remove deprecated style loss method
